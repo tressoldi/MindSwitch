@@ -1,0 +1,15 @@
+#Number of bits/sec from the TrueRNG (>400000 bit/sec)
+1000
+#Amount of Time of data acquisition in seconds (T)
+30
+#Time Interval for data analyses in seconds(y)
+10
+#Cut-off value for the Frequency Monobit Test (default=0.01)
+0.01
+#Cut-off value for the Runs Test (default=0.01)
+0.01
+#Set "0" for Led light switch-on and off when data are non-random (t)
+#Set "1" to activate the timer for Led light automatic switching-off;  
+1
+#Number of seconds for the Led light automatic switching-off
+2
