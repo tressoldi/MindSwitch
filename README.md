@@ -12,3 +12,7 @@ In this repository you will find:
 -MindSwitchRaspberry.py, the software in Python to upload to the Raspberry microcontroller;
 
 -MindSwitchParameters.txt, the file with the parameters to be used by the MindSwitchRaspberry.py 
+
+-DataAnalysis.py, the software for the analysis of data processed by the MindSwitchRaspberry.py
+
+-DataFilterInout.txt, the file with the parameters for the DataAnalysis.py
