@@ -1,3 +1,5 @@
+Under development
+
 # MindSwitch
 MindSwitch description and software
 
@@ -7,6 +9,6 @@ In this repository you will find:
 
 -MindSwitchPC.py, the software in Python for testing on your PC the parameters to use;
 
--Calibration.txt, the file with the parameters to be used by the MindSwitchPC.py;
+-Calibration.ini, the file with the parameters to be used by the MindSwitchPC.py;
 
 
