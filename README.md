@@ -15,6 +15,6 @@ In this repository you will find:
 
 -MindSwitchRaspberry.py: the sofware in Python for the use of MindSwitch on the Rasperry
 
--CalibrationRaspberry.ini: the file wit the parameters to be used by the MindSwitchRaspberry.py
+-CalibrationRaspberry.ini: the file with the parameters to be used by the MindSwitchRaspberry.py
 
 
