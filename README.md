@@ -13,7 +13,7 @@ In this repository you will find:
 
 -MindSwitchDataAnalysis_number: output of MindSwitchPC.py 
 
--MindSwitchRaspberry.py: the sofware in Python for the use of MindSwitch on the Rasperry
+-MindSwitchRaspberry.py: the sofware in Python for the use of MindSwitch on the Raspberry
 
 -CalibrationRaspberry.ini: the file with the parameters to be used by the MindSwitchRaspberry.py
 
