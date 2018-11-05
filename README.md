@@ -5,7 +5,7 @@ MindSwitch description and software
 
 In this repository you will find:
 
--MindSwitchDescription.docx: shows how to build up a copy of the hardware and how to use the software;
+-MindSwitchDescription.docx: how to build up a copy of the hardware and how to use the software;
 
 -MindSwitchPC[version].py: the software in Python for testing the parameters to use on your PC ;
 
