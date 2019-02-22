@@ -9,7 +9,7 @@ In this repository you will find:
 
 -Calibration.ini: the file with the parameters to be used by the MindSwitchPC.py;
 
--MindSwitchDataAnalysis_number: output of MindSwitchPC.py 
+-MindSwitchDataAnalysis_number: output of MindSwitchPC.py or MindSwitchRaspberry.py
 
 -MindSwitchRaspberry.py: the sofware in Python to be installed on the Raspberry
 
