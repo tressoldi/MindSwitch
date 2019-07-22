@@ -1,4 +1,8 @@
 # MindSwitch
+
+(project funded by the Bial Foundation grant n.29/18) 
+
+
 MindSwitch description and software
 
 In this repository you will find:
