@@ -20,3 +20,5 @@ In this repository you will find:
 -CalibrationRaspberry.ini: the file with the parameters to be used by the MindSwitchRaspberry.py
 
 
+Cite this software as:
+Pederzoli, L., Semenzato, L. & Tressoldi, P. (2019). MindSwitch. Available at: https://github.com/tressoldi/MindSwitch
